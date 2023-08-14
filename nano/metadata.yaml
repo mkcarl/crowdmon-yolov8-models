@@ -1,0 +1,13 @@
+description: Ultralytics nano model trained on /kaggle/working/data.yaml
+author: Ultralytics
+license: AGPL-3.0 https://ultralytics.com/license
+date: '2023-08-09T14:41:40.928263'
+version: 8.0.150
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: paimon
